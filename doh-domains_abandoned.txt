@@ -103,7 +103,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -198,7 +197,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -242,6 +240,7 @@ us.rslvr.eu
 vanced.sytes.net
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+www.pukanuragan.ru
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
