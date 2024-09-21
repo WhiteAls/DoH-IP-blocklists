@@ -12,6 +12,7 @@ adguard-server.cf
 adguard.aa4.co.uk
 adguard.ajinga.net
 adguard.ambiya.net
+adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
@@ -102,7 +103,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
