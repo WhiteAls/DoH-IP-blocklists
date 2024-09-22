@@ -664,7 +664,6 @@ dns.vmath.my.id
 dns.vojtat.cz
 dns.w3ctag.org
 dns.wahr.top
-dns.wakgood.net
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -1050,7 +1049,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
