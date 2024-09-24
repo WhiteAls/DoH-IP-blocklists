@@ -3,6 +3,7 @@ a-bld.sys-adm.in
 a.passcloud.xyz
 aattwwss.duckdns.org
 ad-dns.lista.my.id
+ad1.heronet.nl
 adblock.borjalopez.eu
 adg.tshost.no
 adg.yybyy.wiki
@@ -80,7 +81,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -105,6 +105,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -199,7 +200,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -231,6 +231,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
