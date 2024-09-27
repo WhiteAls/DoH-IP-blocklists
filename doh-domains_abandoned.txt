@@ -6,7 +6,6 @@ ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
 adg.rokh.biz
-adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -106,7 +105,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -202,6 +200,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -218,11 +217,11 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
+sby-doh.limotelu.org
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
