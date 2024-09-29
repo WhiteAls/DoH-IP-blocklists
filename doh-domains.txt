@@ -990,7 +990,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1030,7 +1029,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 kaiwu.xyz
@@ -1323,7 +1321,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
