@@ -140,6 +140,9 @@ dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
+doh-ch.blahdns.com
+doh-fi.blahdns.com
+doh-jp.blahdns.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -169,6 +172,9 @@ doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
+dot-ch.blahdns.com
+dot-fi.blahdns.com
+dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -203,6 +209,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
