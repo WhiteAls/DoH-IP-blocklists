@@ -91,7 +91,6 @@ dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
-dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.infosec.xyz
 dns.invisv.com
@@ -144,6 +143,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
