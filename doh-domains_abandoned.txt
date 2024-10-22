@@ -69,6 +69,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
+dns.benpro.fr
 dns.blaze-sk.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -89,6 +90,7 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
