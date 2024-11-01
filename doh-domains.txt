@@ -414,7 +414,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
