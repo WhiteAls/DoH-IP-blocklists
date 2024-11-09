@@ -118,14 +118,17 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
+dns.ourvau.lt
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
+dns.redvau.lt
 dns.rslvr.eu
 dns.siry.de
 dns.stvsk.ml
