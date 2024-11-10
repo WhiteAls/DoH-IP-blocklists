@@ -1005,6 +1005,7 @@ jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
+keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 kilabit.info
