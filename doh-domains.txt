@@ -290,7 +290,6 @@ dns.bravoc.one
 dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
-dns.bw.i81.ru
 dns.carson-family.com
 dns.carter.me
 dns.caspervk.net
@@ -1284,6 +1283,7 @@ tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
