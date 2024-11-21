@@ -119,7 +119,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -260,7 +259,6 @@ resolver.noaddns.com
 resolver.unstoppable.io
 sby-doh.limotelu.org
 sdns.233py.com
-sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
