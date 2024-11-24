@@ -91,12 +91,10 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -171,6 +169,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -280,7 +279,6 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
-us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 wdns.233py.com
