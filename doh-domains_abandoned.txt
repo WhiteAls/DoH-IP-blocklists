@@ -89,7 +89,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -127,6 +126,7 @@ dns.rslvr.eu
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
+dns.tesem.dog
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
@@ -166,6 +166,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
