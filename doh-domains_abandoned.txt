@@ -114,6 +114,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -124,6 +125,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
+dns.spirio.fr
 dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog

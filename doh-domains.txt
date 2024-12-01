@@ -611,7 +611,6 @@ dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
-dns.spirio.fr
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
