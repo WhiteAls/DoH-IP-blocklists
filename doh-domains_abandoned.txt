@@ -33,7 +33,6 @@ ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-antivirus.bebasid.com
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -71,7 +70,6 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
-dns.bebasid.com
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
@@ -91,7 +89,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -224,7 +221,6 @@ hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
 inde.ragnvindr.org
-internetsehat.bebasid.com
 iris.woozeno.eu
 irre.li
 jambi.undo.it
