@@ -91,7 +91,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -116,7 +115,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -171,7 +169,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -215,7 +212,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -285,6 +281,7 @@ vanced.sytes.net
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+www.pukanuragan.ru
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
