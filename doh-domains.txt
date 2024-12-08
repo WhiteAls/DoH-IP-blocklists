@@ -53,7 +53,6 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -616,6 +615,7 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 dns.strassmair.org
+dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
 dns.svoi.dev
@@ -668,6 +668,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
 dns.zfsystem.tech
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -787,7 +788,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
