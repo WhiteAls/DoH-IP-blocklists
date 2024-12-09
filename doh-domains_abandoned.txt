@@ -16,7 +16,6 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -281,7 +280,6 @@ vanced.sytes.net
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
-www.pukanuragan.ru
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
