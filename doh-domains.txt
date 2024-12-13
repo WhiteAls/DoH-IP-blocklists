@@ -413,7 +413,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -484,6 +483,7 @@ dns.lvolland.fr
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
+dns.marbledfennec.net
 dns.mateo.ovh
 dns.maybe.icu
 dns.mayx.eu.org

@@ -90,6 +90,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -100,6 +101,7 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.huas.me
+dns.hugo0.moe
 dns.ian.rocks
 dns.infosec.xyz
 dns.invisv.com
@@ -110,7 +112,6 @@ dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.mandre.dev
-dns.marbledfennec.net
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
