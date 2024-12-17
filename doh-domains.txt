@@ -1219,7 +1219,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
