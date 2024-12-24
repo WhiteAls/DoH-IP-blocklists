@@ -92,7 +92,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -118,6 +117,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -239,7 +239,6 @@ lim01.dnscry.pt
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
-nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
