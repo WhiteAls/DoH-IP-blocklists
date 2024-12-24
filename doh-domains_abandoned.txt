@@ -62,6 +62,7 @@ dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
+dns.0rz.ing
 dns.0x55.net
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
@@ -117,7 +118,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -239,6 +239,7 @@ lim01.dnscry.pt
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
+nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
