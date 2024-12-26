@@ -95,6 +95,7 @@ dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -171,6 +172,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -237,13 +239,10 @@ la.ray0512.win
 lim01.dnscry.pt
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
-luna-is.so-gorgeo.us.kg
-nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
-nightlymoon.us.kg
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -272,7 +271,6 @@ sg.yepdns.com
 snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
-tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
 tk31z.com
