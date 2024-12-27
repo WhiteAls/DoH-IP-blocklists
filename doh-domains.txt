@@ -975,7 +975,6 @@ i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
-id.terra.my.id
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
