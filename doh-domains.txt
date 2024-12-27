@@ -548,7 +548,6 @@ dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
-dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
@@ -788,6 +787,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
