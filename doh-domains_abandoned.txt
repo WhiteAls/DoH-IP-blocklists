@@ -112,6 +112,7 @@ dns.itdept.pro
 dns.jucker.engineering
 dns.kugoapps.com
 dns.labnekotest.site
+dns.learningman.top
 dns.lightmaster.pw
 dns.mandre.dev
 dns.mathewakhil.online

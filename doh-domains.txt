@@ -466,7 +466,6 @@ dns.kxy.ink
 dns.l337.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
-dns.learningman.top
 dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
