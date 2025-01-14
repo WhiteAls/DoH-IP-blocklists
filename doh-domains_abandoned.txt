@@ -263,7 +263,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-princez.uk
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -301,4 +300,3 @@ www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
-zakaria.website
