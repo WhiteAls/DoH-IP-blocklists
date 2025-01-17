@@ -430,7 +430,6 @@ dns.interhub.cc
 dns.internal.hosmatic.com
 dns.ishan.pw
 dns.islandnet.com
-dns.janl.eu
 dns.jhangy.us
 dns.jichi.io
 dns.jinwoo.dev
@@ -942,6 +941,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
