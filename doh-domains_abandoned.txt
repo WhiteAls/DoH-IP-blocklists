@@ -98,6 +98,7 @@ dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -275,6 +276,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
+spacedns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
