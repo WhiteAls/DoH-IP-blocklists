@@ -1243,6 +1243,7 @@ sky.rethinkdns.com
 skydragoness.com
 slc01.dnscry.pt
 sof01.dnscry.pt
+spacedns.org
 squidmall.vip
 sriedmueadguard.casa
 steering.nextdns.io
