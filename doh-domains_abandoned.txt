@@ -221,6 +221,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+fr-gra-w-f-1.nashkan.net
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
