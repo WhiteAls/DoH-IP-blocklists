@@ -128,10 +128,10 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
+dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
 dns.surfshark.com
