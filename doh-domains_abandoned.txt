@@ -99,7 +99,6 @@ dns.edgy.network
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -248,6 +247,7 @@ kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 lion.yazilimatolye.com
+local.sufly.top
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
 ndns.233py.com
