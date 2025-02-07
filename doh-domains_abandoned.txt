@@ -97,6 +97,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -124,6 +125,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -272,6 +274,7 @@ please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
