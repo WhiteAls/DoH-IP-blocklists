@@ -286,7 +286,6 @@ dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.carson-family.com
-dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
 dns.ceai.com.tw
