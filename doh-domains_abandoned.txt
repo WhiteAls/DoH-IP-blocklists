@@ -126,6 +126,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -299,7 +300,6 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
-virga.pp.ua
 vm.mytm.cc
 vpn.technicule.info
 wdns.233py.com
