@@ -1034,6 +1034,7 @@ mia01.dnscry.pt
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
+mnrv.trade
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
