@@ -190,6 +190,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -716,7 +717,6 @@ doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.angry.im
-doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
