@@ -717,6 +717,7 @@ doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.angry.im
+doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
@@ -982,7 +983,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 keithchung.hopto.org
@@ -1132,7 +1132,6 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pluton.plan9-dns.com
 pooblet.co.za
-pope.cnblw.me
 princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
