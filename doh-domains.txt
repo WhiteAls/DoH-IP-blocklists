@@ -617,7 +617,6 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
-dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -757,7 +756,6 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
 doh.eu.dnswarden.com
-doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.funil.de

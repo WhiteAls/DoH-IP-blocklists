@@ -100,6 +100,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -143,6 +144,7 @@ dns.siry.de
 dns.surfshark.com
 dns.theres.one
 dns.truong.fi
+dns.tryk.app
 dns.vip-kingstore.xyz
 dns.wakgood.net
 dns.wevpn.com
@@ -181,6 +183,7 @@ doh.au.ahadns.net
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
+doh.excdn.eu.org
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
@@ -233,6 +236,7 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
