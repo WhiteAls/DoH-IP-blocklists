@@ -611,7 +611,6 @@ dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
-dns.theres.one
 dns.therifleman.name
 dns.tierradeayala.com
 dns.tipsy.coffee
@@ -931,7 +930,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1015,7 +1013,6 @@ lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mad01.dnscry.pt
@@ -1046,12 +1043,10 @@ muxyuji.ru
 n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
-nana-is.so-gorgeo.us.kg
 nat64.tuxis.nl
 naw01.dnscry.pt
 netcup.mismat.ch
 nicsezcheckfbi.gov
-nightlymoon.us.kg
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
@@ -1244,7 +1239,6 @@ takhtakh.domyah.net
 tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
-tetty-is.so-gorgeo.us.kg
 tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl

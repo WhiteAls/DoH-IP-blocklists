@@ -141,6 +141,7 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
 dns.surfshark.com
+dns.theres.one
 dns.truong.fi
 dns.vip-kingstore.xyz
 dns.wakgood.net
@@ -229,6 +230,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -254,11 +256,14 @@ lim01.dnscry.pt
 lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
+luna-is.so-gorgeo.us.kg
+nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
+nightlymoon.us.kg
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -290,6 +295,7 @@ sin01.dnscry.pt
 snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
+tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
 tk31z.com
