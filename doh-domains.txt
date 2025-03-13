@@ -55,7 +55,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -344,7 +343,6 @@ dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
@@ -423,7 +421,6 @@ dns.internal.hosmatic.com
 dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
-dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
