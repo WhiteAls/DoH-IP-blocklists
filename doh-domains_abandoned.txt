@@ -70,6 +70,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -197,6 +198,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -313,6 +315,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
