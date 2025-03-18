@@ -103,6 +103,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -130,6 +131,7 @@ dns.learningman.top
 dns.lightmaster.pw
 dns.lvolland.fr
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -180,6 +182,10 @@ dns4.imkvq.com
 dns8.org
 dnsenc.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -198,7 +204,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -315,7 +320,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
