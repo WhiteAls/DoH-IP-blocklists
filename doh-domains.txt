@@ -215,6 +215,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -417,6 +418,7 @@ dns.internal.hosmatic.com
 dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
@@ -709,7 +711,6 @@ doh.archuser.org
 doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.beauty
-doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
 doh.buzz
@@ -1129,6 +1130,7 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
