@@ -38,6 +38,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.abd.ong
@@ -604,7 +605,6 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
-dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
