@@ -104,6 +104,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -135,7 +136,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -153,7 +153,6 @@ dns.surfshark.com
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
-dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
