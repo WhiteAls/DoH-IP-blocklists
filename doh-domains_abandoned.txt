@@ -33,6 +33,7 @@ adguard.quydang.name.vn
 adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
+ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -286,6 +287,7 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+princez.uk
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -318,6 +320,7 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vtcuong.site
+wantaquddin.com
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
@@ -326,3 +329,4 @@ www.zburger.top
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
+zakaria.website
