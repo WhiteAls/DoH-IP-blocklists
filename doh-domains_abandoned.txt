@@ -122,7 +122,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
-dns.kugoapps.com
 dns.learningman.top
 dns.lightmaster.pw
 dns.lvolland.fr
@@ -154,7 +153,6 @@ dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.xiumu.org
-dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns.zui.lol
