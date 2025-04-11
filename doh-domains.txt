@@ -38,7 +38,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -419,6 +418,7 @@ dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.ishan.pw
+dns.islandnet.com
 dns.jhangy.us
 dns.jichi.io
 dns.jinwoo.dev
@@ -1098,6 +1098,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com

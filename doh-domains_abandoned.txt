@@ -8,6 +8,7 @@ ad1.heronet.nl
 adblock.borjalopez.eu
 adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adg.tshost.no
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -50,7 +51,6 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -100,7 +100,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -119,7 +118,6 @@ dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
-dns.islandnet.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
@@ -283,7 +281,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
