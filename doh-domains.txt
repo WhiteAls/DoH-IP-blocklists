@@ -38,6 +38,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -225,6 +226,7 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
