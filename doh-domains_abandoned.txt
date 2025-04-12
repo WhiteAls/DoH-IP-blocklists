@@ -17,7 +17,6 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ihatemy.live
@@ -66,6 +65,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -130,7 +130,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -196,7 +195,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -211,6 +209,7 @@ doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.suche.org
 doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id

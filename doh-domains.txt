@@ -52,6 +52,7 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -225,7 +226,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -763,6 +763,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
