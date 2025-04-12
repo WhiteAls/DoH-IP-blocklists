@@ -52,7 +52,6 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -764,7 +763,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
