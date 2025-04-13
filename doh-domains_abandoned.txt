@@ -99,7 +99,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -130,7 +129,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -155,7 +153,6 @@ dns.wugui.zone
 dns.xiumu.org
 dns.youni.win
 dns.ypbind.de
-dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
