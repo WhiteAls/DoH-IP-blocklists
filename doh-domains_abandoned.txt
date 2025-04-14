@@ -125,12 +125,14 @@ dns.janl.eu
 dns.jucker.engineering
 dns.learningman.top
 dns.lightmaster.pw
+dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info

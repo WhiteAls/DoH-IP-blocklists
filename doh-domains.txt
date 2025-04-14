@@ -464,7 +464,6 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
-dns.lsho.top
 dns.maitrekuc.fr
 dns.marasov.id
 dns.marbledfennec.net
