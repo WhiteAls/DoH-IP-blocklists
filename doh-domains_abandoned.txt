@@ -148,6 +148,7 @@ dns.surfshark.com
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
+dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
