@@ -716,6 +716,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.beauty
@@ -930,6 +931,7 @@ h.gjrick.tw
 han01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -1206,6 +1208,7 @@ sg-sin.doh.sb
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 sg.teradns.org
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
