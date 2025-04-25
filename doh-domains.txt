@@ -596,6 +596,7 @@ dns.strassmair.org
 dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
+dns.surfshark.com
 dns.svoi.dev
 dns.swin.pro
 dns.switch.ch
@@ -861,7 +862,6 @@ easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 ee-tll.doh.sb
-eliatofani.ovh
 emby.rasp.tv
 esel.stusta.mhn.de
 eth.link

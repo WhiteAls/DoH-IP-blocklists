@@ -148,7 +148,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
-dns.surfshark.com
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -235,6 +234,7 @@ dot.occ.top
 dot.pl.ahadns.net
 ecs-doh.dnswarden.com
 edns.233py.com
+eliatofani.ovh
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -244,6 +244,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
