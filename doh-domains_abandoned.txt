@@ -100,12 +100,14 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.editechstudio.com
 dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -191,6 +193,7 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
+doh.dns-ga.de
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
@@ -241,8 +244,8 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
+hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -291,6 +294,7 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
+secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
