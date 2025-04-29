@@ -524,7 +524,6 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
-dns.pernika.net
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
