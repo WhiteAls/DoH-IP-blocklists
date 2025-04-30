@@ -134,6 +134,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -243,6 +244,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
@@ -260,7 +262,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
