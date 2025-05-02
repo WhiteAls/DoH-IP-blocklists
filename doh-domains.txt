@@ -191,7 +191,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -852,7 +851,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -919,7 +917,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw

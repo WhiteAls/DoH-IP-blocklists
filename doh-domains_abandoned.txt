@@ -55,6 +55,7 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -231,6 +232,7 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
+drs.rustsword.com
 ecs-doh.dnswarden.com
 edns.233py.com
 eliatofani.ovh
@@ -243,6 +245,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
