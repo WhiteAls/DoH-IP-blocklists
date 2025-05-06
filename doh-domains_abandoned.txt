@@ -29,7 +29,6 @@ adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
 affcdn.net
@@ -152,7 +151,6 @@ dns.rslvr.eu
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
-dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
@@ -295,7 +293,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -315,7 +312,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

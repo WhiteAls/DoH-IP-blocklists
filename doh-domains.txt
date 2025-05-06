@@ -73,6 +73,7 @@ adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
 adguard.piekacz.pl
+adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.senthil.us
 adguard.shoupperuser.com
