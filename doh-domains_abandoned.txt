@@ -20,6 +20,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -141,6 +142,7 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
+dns.ovpn.bond
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk
@@ -248,6 +250,7 @@ gclouddns.com
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -312,6 +315,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
