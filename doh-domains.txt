@@ -56,6 +56,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -401,7 +402,6 @@ dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
 dns.hypercute.eu
-dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
@@ -931,6 +931,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
