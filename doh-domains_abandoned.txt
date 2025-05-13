@@ -71,6 +71,7 @@ dns.0x55.net
 dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
+dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
@@ -107,7 +108,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -117,7 +117,6 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.huas.me
 dns.hugo0.moe
-dns.iamanuragh.in
 dns.ian.rocks
 dns.indybanipal.com
 dns.infosec.xyz
@@ -136,7 +135,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -231,6 +229,7 @@ dot.chi.ahadns.net
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
+dot.libredns.gr.com
 dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
