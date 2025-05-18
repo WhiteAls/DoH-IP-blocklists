@@ -20,7 +20,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -93,6 +92,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
+dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -102,13 +102,11 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -166,6 +164,7 @@ dns.ypbind.de
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
+dns1.digitale-gesellschaft.ch
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -173,6 +172,7 @@ dns1.nielsdb.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
+dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
@@ -252,7 +252,6 @@ gclouddns.com
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -296,6 +295,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
