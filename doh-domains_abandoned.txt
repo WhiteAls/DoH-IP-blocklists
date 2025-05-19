@@ -84,6 +84,7 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
+dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -92,7 +93,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
-dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -102,11 +102,13 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -164,7 +166,6 @@ dns.ypbind.de
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
-dns1.digitale-gesellschaft.ch
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -172,7 +173,6 @@ dns1.nielsdb.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
-dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
