@@ -84,7 +84,6 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
-dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
