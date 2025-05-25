@@ -240,7 +240,6 @@ dot.pl.ahadns.net
 drs.rustsword.com
 ecs-doh.dnswarden.com
 edns.233py.com
-eliatofani.ovh
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
