@@ -56,6 +56,7 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -101,7 +102,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -137,7 +137,6 @@ dns.moog.sh
 dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.ovpn.bond
