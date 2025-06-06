@@ -106,7 +106,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -124,6 +123,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
+dns.keke125.com
 dns.labnekotest.site
 dns.learningman.top
 dns.lightmaster.pw

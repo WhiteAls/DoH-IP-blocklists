@@ -435,7 +435,6 @@ dns.karl.one
 dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
-dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
