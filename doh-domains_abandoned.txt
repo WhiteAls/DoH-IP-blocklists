@@ -135,7 +135,6 @@ dns.mandre.dev
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.norvig.dk
@@ -240,6 +239,7 @@ dot.occ.top
 dot.pl.ahadns.net
 drs.rustsword.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 edns.233py.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
