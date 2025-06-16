@@ -107,6 +107,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -238,7 +239,6 @@ dot.occ.top
 dot.pl.ahadns.net
 drs.rustsword.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 edns.233py.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
