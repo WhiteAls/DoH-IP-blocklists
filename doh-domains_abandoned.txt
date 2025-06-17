@@ -107,7 +107,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -219,6 +218,7 @@ doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
