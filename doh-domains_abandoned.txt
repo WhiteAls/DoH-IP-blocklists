@@ -101,6 +101,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -250,7 +251,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hrk01.dnscry.pt
