@@ -190,7 +190,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -238,7 +237,6 @@ dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
-dns.aeiou.pp.ua
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
