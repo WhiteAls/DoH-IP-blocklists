@@ -57,6 +57,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -287,6 +288,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -304,7 +306,6 @@ please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver2.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
