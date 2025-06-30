@@ -56,6 +56,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -977,6 +978,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
