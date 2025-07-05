@@ -18,7 +18,6 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ihatemy.live
@@ -110,7 +109,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
