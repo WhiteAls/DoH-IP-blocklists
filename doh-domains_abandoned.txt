@@ -54,6 +54,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
+cloud.tezoi.com
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -138,6 +139,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.norvig.dk
