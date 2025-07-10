@@ -1,4 +1,5 @@
 1.xhr0no.my
+351242444.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -89,7 +90,6 @@ dns.arapurayil.com
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
-dns.braene.com
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
@@ -109,11 +109,13 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -142,7 +144,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.norvig.dk
@@ -325,7 +326,9 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

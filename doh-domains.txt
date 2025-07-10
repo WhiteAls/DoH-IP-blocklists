@@ -4,7 +4,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-351242444.xyz
 3dcosas.xyz
 3dns.eu
 5g.o0o.re
@@ -269,6 +268,7 @@ dns.blokada.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
 dns.bofh.in
+dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.burgas.pro
@@ -1221,7 +1221,6 @@ timmes.nl
 tj.jamesxue.xyz
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
