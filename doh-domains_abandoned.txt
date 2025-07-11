@@ -109,7 +109,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -144,6 +143,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.norvig.dk
@@ -328,7 +328,6 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
