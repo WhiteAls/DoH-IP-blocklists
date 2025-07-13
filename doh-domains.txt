@@ -28,11 +28,13 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -106,6 +108,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -364,6 +367,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -390,6 +394,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -441,6 +446,7 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lepilleur.com
@@ -487,7 +493,6 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
-dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
@@ -635,6 +640,7 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -712,6 +718,7 @@ doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
