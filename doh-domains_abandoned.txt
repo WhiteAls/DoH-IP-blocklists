@@ -24,7 +24,6 @@ adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -34,6 +33,7 @@ adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
@@ -113,7 +113,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -142,7 +141,6 @@ dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
-dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -157,7 +155,6 @@ dns.pumplex.com
 dns.rafn.is
 dns.rslvr.eu
 dns.siry.de
-dns.skrep.eu
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -255,7 +252,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hrk01.dnscry.pt
@@ -272,7 +268,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id

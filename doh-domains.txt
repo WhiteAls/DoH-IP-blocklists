@@ -69,7 +69,6 @@ adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
 adguard.piekacz.pl
-adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.senthil.us
 adguard.shoupperuser.com
@@ -911,6 +910,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
