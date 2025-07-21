@@ -104,6 +104,7 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edison42.dev
@@ -113,6 +114,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -253,6 +255,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hrk01.dnscry.pt
