@@ -110,12 +110,12 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -300,7 +300,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
@@ -337,13 +336,11 @@ us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
-wantaquddin.com
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
 yuvelirtut.website
