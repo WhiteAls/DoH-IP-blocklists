@@ -21,6 +21,7 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -103,7 +104,6 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
-dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
@@ -115,6 +115,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -140,7 +141,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
