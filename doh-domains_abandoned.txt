@@ -97,7 +97,6 @@ dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
@@ -112,12 +111,12 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -143,7 +142,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -164,6 +162,7 @@ dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
+dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
@@ -193,7 +192,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-doh-ca.naftalie.net
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
