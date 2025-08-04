@@ -30,7 +30,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
@@ -144,7 +143,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -259,6 +257,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hrk01.dnscry.pt
