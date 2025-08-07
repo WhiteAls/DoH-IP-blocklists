@@ -185,7 +185,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -229,6 +228,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -522,6 +522,7 @@ dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
+dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
@@ -635,6 +636,7 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
@@ -1016,7 +1018,6 @@ msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
 muxyuji.ru
-n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 nat64.tuxis.nl
@@ -1048,8 +1049,6 @@ ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
 ns3.bit-trail.nl
 ns3.com
-ns3.cx
-ns3.link
 ns3.opennameserver.org
 ns4.opennameserver.org
 nsc.torgues.net
