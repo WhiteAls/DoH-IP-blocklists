@@ -109,6 +109,7 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -336,6 +337,7 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
+us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
