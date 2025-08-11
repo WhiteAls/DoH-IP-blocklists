@@ -794,7 +794,6 @@ doh.sb
 doh.seby.io
 doh.sidnlabs.nl
 doh.suche.org
-doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
 doh.tiar.app
