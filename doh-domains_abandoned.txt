@@ -139,7 +139,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -150,6 +149,7 @@ dns.oszx.co
 dns.ovpn.bond
 dns.pesaventofilippo.com
 dns.post-factum.tk
+dns.princex.net
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
@@ -278,6 +278,7 @@ lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
+mendozasdelivery.com
 minilla.store
 mnrv.trade
 n0.eu

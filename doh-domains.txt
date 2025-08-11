@@ -522,7 +522,6 @@ dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
-dns.princex.net
 dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
@@ -1007,7 +1006,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mikezhang.xyz
 mil01.dnscry.pt
