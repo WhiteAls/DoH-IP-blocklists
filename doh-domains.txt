@@ -1007,7 +1007,6 @@ max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
