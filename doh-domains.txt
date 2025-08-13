@@ -403,7 +403,6 @@ dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
-dns.indust.me
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -905,6 +904,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw

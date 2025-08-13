@@ -126,6 +126,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.hugo0.moe
 dns.ian.rocks
+dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
@@ -258,7 +259,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hrk01.dnscry.pt
@@ -317,7 +317,6 @@ please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
