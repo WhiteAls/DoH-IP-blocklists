@@ -163,6 +163,7 @@ dns.pumplex.com
 dns.rafn.is
 dns.rslvr.eu
 dns.siry.de
+dns.stvsk.ml
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi

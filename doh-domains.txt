@@ -578,7 +578,6 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 dns.strassmair.org
-dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
