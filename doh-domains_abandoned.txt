@@ -112,6 +112,7 @@ dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -164,6 +165,7 @@ dns.rafn.is
 dns.rslvr.eu
 dns.siry.de
 dns.stvsk.ml
+dns.swin.pro
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi

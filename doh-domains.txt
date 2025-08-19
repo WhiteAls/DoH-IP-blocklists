@@ -581,7 +581,6 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.svoi.dev
-dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
