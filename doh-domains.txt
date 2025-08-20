@@ -332,7 +332,6 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.efficientdocuments.com
 dns.elemental.software
