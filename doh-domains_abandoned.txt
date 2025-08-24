@@ -25,6 +25,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.ihatemy.live
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -58,6 +59,7 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
@@ -145,7 +147,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -171,6 +172,7 @@ dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -263,6 +265,7 @@ gb-cov-w-f-1.nashkan.net
 groupy.ga
 hk.rslvr.eu
 hkname.freecdn.one
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -278,6 +281,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -311,6 +315,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pashagame456.com
 pi1.node15.com
