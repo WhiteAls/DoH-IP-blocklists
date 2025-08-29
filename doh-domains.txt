@@ -381,7 +381,6 @@ dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
 dns.hellozhao.com
-dns.henek.ovh
 dns.hinet.net
 dns.home.daniil.it
 dns.horcrux.vip
