@@ -145,7 +145,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -210,7 +209,6 @@ doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
-doh.excdn.eu.org
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net

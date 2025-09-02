@@ -730,6 +730,7 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
 doh.eu.dnswarden.com
+doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.funil.de
