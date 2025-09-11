@@ -736,6 +736,7 @@ doh.eu.dnswarden.com
 doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
+doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
@@ -904,6 +905,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
