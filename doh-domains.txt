@@ -59,7 +59,6 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
@@ -744,6 +743,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -999,7 +999,6 @@ max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
