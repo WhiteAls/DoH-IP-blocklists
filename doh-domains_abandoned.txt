@@ -112,7 +112,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -146,6 +145,8 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -261,7 +262,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
