@@ -112,6 +112,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -147,6 +148,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
 dns.mzjtechnology.com
+dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -160,6 +162,7 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
+dns.propheci.xyz
 dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top

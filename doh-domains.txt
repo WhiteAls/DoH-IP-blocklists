@@ -480,7 +480,6 @@ dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
 dns.narl.app
-dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
@@ -516,7 +515,6 @@ dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.privado.ovh
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
