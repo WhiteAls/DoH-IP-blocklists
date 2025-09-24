@@ -145,6 +145,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nixnet.xyz
@@ -163,7 +164,6 @@ dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
-dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -208,12 +208,9 @@ doh.978159.xyz
 doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
-doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastas.pi-dns.com
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -228,7 +225,6 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 doh.post-factum.tk
@@ -236,7 +232,6 @@ doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -248,8 +243,6 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
