@@ -33,7 +33,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -177,7 +176,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -900,6 +898,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw

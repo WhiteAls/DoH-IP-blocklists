@@ -13,6 +13,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.rueiliu.space
 adg.tshost.no
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -64,6 +65,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -160,6 +162,7 @@ dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
 dns.propheci.xyz
+dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
@@ -208,9 +211,11 @@ doh.978159.xyz
 doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
+doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
+doh.eastau.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -232,6 +237,7 @@ doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -242,7 +248,10 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
+dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
