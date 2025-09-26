@@ -181,6 +181,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -721,7 +722,6 @@ doh.dnscrypt.uk
 doh.dnslify.com
 doh.domreg.lt
 doh.dscloud.me
-doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
