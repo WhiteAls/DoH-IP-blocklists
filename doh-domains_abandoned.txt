@@ -175,7 +175,6 @@ dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
