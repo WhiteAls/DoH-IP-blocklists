@@ -112,13 +112,11 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -242,6 +240,7 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
+dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.es.ahadns.net
 dot.in.ahadns.net
@@ -251,6 +250,7 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
+dot.westus.pi-dns.com
 ecs-doh.dnswarden.com
 edgy-dns.com
 elshad-adgh-dns.ru
@@ -262,6 +262,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
