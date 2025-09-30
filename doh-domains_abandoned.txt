@@ -117,6 +117,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -240,7 +241,6 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
-dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.es.ahadns.net
 dot.in.ahadns.net
@@ -250,7 +250,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
-dot.westus.pi-dns.com
 ecs-doh.dnswarden.com
 edgy-dns.com
 elshad-adgh-dns.ru
@@ -309,7 +308,6 @@ ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
-ns3.link
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
