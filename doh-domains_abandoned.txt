@@ -174,6 +174,7 @@ dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -296,7 +297,6 @@ minilla.store
 mnrv.trade
 n0.eu
 nana-is.so-gorgeo.us.kg
-nanopi.cybergroove.net
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu

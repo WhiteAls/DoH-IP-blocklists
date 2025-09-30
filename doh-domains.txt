@@ -608,7 +608,6 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vmath.my.id
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -900,7 +899,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1007,6 +1005,7 @@ muli.stusta.mhn.de
 muxyuji.ru
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
+nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
