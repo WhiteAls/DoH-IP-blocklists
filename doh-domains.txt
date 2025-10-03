@@ -152,7 +152,6 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 catdns.org
-cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 chrome.cloudflare-dns.com
@@ -899,6 +898,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
