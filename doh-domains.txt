@@ -51,7 +51,6 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -1298,6 +1297,5 @@ zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
-zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
