@@ -524,7 +524,6 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
 dns.rbn.gr
-dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
@@ -549,7 +548,6 @@ dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
-dns.seiffert.me
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
@@ -897,6 +895,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
