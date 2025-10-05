@@ -51,6 +51,7 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -653,7 +654,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
-dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -897,7 +897,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1297,5 +1296,6 @@ zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
+zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
