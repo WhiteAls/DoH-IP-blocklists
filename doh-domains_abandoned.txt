@@ -1,6 +1,5 @@
 1.xhr0no.my
 351242444.xyz
-3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -26,7 +25,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.ihatemy.live
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -267,7 +265,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
@@ -336,12 +333,10 @@ snoke.meganerd.nl
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tuskythehusky.tech
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
