@@ -118,9 +118,11 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
@@ -150,6 +152,7 @@ dns.neowutran.ovh
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
+dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co

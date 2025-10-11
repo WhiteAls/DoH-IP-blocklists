@@ -380,7 +380,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
-dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hellozhao.com
@@ -497,7 +496,6 @@ dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.npsolution.it
 dns.nullgate.net
 dns.odinpl.com
 dns.ofdoom.net
