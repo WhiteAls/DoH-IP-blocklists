@@ -392,7 +392,6 @@ dns.hotta.page
 dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
-dns.huyhoangit.net
 dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
