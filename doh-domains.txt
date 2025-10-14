@@ -300,7 +300,6 @@ dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
-dns.containerpi.com
 dns.cooluc.com
 dns.cryptomize.com
 dns.crystalyx.net
@@ -392,7 +391,6 @@ dns.hotta.page
 dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
-dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
