@@ -146,6 +146,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -156,7 +157,6 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ovpn.bond
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.princex.net
@@ -303,7 +303,6 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
