@@ -611,7 +611,6 @@ dns.weixin.qq.com.cn
 dns.wibenson.cloud
 dns.xlion.tw
 dns.xuming.studio
-dns.xusqui.com
 dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
