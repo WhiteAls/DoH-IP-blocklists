@@ -63,6 +63,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
+d2.shabi.icu
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -112,13 +113,12 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
+dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -148,7 +148,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -231,6 +230,7 @@ doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
+doh.micronets.in
 doh.morizt.id
 doh.nala.ru
 doh.neowutran.ovh
