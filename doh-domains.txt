@@ -437,7 +437,6 @@ dns.kxy.ink
 dns.l337.site
 dns.labnekotest.site
 dns.lars-lehmann.net
-dns.lashes-brow.ru
 dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
@@ -729,6 +728,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im

@@ -112,6 +112,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -139,6 +140,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.lashes-brow.ru
 dns.learningman.top
 dns.lsho.top
 dns.lvolland.fr
@@ -169,6 +171,7 @@ dns.rafn.is
 dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
+dns.scapetical.com
 dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
@@ -229,7 +232,6 @@ doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
