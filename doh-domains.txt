@@ -35,6 +35,7 @@ adg.geili.me
 adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
+adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -728,7 +729,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -976,6 +976,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mil01.dnscry.pt
 morbitzer.de

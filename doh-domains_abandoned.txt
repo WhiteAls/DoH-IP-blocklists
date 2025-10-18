@@ -12,7 +12,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.tshost.no
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -171,7 +170,6 @@ dns.rafn.is
 dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
-dns.scapetical.com
 dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
@@ -232,6 +230,7 @@ doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -312,7 +311,6 @@ lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
-mendozasdelivery.com
 mikezhang.xyz
 minilla.store
 mnrv.trade
