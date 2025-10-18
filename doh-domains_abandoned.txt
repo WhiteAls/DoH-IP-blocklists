@@ -19,6 +19,7 @@ adguard-server.cf
 adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
+adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
@@ -168,6 +169,7 @@ dns.propheci.xyz
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
+dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.seiffert.me
@@ -230,7 +232,6 @@ doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org

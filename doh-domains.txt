@@ -46,7 +46,6 @@ adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.blogssl.com
 adguard.bonis.de
-adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
 adguard.depieri.net
@@ -729,6 +728,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
