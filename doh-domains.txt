@@ -103,7 +103,6 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
-ahoj.email
 all.dns.mullvad.net
 alleesph.online
 ams01.dnscry.pt
@@ -1281,7 +1280,6 @@ yunyun.is.my.waifu.cz
 yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
