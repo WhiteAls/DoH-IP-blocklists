@@ -57,12 +57,14 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
 de.adhole.org
+de.dns.privex.io
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
@@ -120,7 +122,6 @@ dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -318,10 +319,12 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
@@ -351,7 +354,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

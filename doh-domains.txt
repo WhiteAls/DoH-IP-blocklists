@@ -192,7 +192,6 @@ de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
-de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
 deic-lgb.anycast.censurfridns.dk
@@ -369,6 +368,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
