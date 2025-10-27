@@ -332,7 +332,6 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.efficientdocuments.com
@@ -756,7 +755,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.port53.dk
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -1213,7 +1211,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt

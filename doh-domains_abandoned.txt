@@ -107,11 +107,11 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -149,6 +149,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -166,6 +167,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
+dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.seiffert.me
@@ -241,6 +243,7 @@ doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
+doh.port53.dk
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
@@ -346,6 +349,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
