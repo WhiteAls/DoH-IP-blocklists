@@ -541,7 +541,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -715,7 +714,6 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
 doh.domreg.lt
-doh.dscloud.me
 doh.eddi.net
 doh.eu.dnswarden.com
 doh.excdn.eu.org
