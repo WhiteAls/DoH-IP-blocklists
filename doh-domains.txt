@@ -339,7 +339,6 @@ dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
-dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
@@ -602,6 +601,7 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wang.art
@@ -723,7 +723,6 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
-doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
@@ -951,7 +950,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1211,7 +1209,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
