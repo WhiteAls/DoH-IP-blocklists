@@ -116,7 +116,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -149,6 +148,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -165,7 +165,6 @@ dns.princex.net
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.scapetical.com
@@ -323,6 +322,7 @@ ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
+ns3.link
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
@@ -348,9 +348,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
