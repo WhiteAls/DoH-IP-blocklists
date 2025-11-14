@@ -182,6 +182,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -197,6 +198,7 @@ de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
+deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -510,7 +512,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.pragmasec.nl
 dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
