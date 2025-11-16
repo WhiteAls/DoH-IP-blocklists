@@ -50,10 +50,12 @@ berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
+callies-online.site
 canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
@@ -104,7 +106,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
 dns.ellichua.com
@@ -117,7 +118,6 @@ dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -283,7 +283,6 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -350,7 +349,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
