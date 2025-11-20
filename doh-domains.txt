@@ -515,6 +515,7 @@ dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
 dns.privado.ovh
+dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -634,6 +635,7 @@ dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.ryan-palmer.com
+dns1.server.my.id
 dns1.techeasy.org
 dns10.quad9.net
 dns11.quad9.net
@@ -898,7 +900,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com

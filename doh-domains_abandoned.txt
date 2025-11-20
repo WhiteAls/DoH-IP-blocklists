@@ -107,12 +107,14 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -160,9 +162,9 @@ dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
 dns.privilab.net
-dns.propheci.xyz
 dns.pumplex.com
 dns.rafn.is
+dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.scapetical.com
@@ -191,7 +193,6 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
-dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns2.dnscrypt.ca
@@ -281,6 +282,7 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -327,6 +329,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
