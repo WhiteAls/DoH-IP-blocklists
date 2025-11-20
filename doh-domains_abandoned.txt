@@ -107,14 +107,12 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -139,7 +137,6 @@ dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
@@ -163,6 +160,7 @@ dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
 dns.privilab.net
+dns.propheci.xyz
 dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
@@ -201,7 +199,6 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dns8.org
-dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
@@ -299,7 +296,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt

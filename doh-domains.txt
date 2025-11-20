@@ -450,6 +450,7 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
+dns.lsho.top
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
@@ -514,7 +515,6 @@ dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
 dns.privado.ovh
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -652,6 +652,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
+dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
