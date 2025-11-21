@@ -304,6 +304,7 @@ dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cooluc.com
 dns.cryptomize.com
 dns.crystalyx.net
@@ -357,6 +358,7 @@ dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
+dns.flightspace.net
 dns.flwagners.com
 dns.flymc.cc
 dns.freopc.fr
@@ -900,6 +902,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
