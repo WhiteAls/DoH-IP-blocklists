@@ -515,7 +515,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
@@ -1056,7 +1055,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-orpi.privado.ovh
 osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
