@@ -372,7 +372,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -532,6 +531,7 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -1289,6 +1289,5 @@ zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
-zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
