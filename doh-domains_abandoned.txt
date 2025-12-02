@@ -108,12 +108,14 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -145,6 +147,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -167,6 +170,7 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.scapetical.com
 dns.seiffert.me
+dns.sindominio.net
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -307,6 +311,7 @@ mnrv.trade
 n0.eu
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
@@ -346,7 +351,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
