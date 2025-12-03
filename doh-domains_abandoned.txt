@@ -146,7 +146,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -199,6 +198,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dns8.org
+dnscache.e-utp.net
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
