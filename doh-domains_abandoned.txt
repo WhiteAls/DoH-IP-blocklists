@@ -114,6 +114,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.furrydns.de
@@ -163,6 +164,7 @@ dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.seiffert.me
@@ -294,6 +296,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 korzhov.dev
 kracon.anycast.censurfridns.dk
