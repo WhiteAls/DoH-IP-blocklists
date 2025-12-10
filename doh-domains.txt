@@ -186,6 +186,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -945,7 +946,6 @@ kids.dns0.eu
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
-korzhov.dev
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
