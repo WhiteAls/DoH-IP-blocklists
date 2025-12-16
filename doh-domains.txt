@@ -58,6 +58,7 @@ adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
+adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
 adguard.kantinyoyok.xyz
