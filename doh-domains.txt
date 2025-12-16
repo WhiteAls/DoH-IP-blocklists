@@ -843,7 +843,6 @@ family.rabbitdns.org
 familyshield.opendns.com
 fdns1.dismail.de
 fdns2.dismail.de
-fet01.dnscry.pt
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
 firefox.dns.nextdns.io
@@ -1048,7 +1047,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
