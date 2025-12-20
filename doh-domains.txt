@@ -450,7 +450,6 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
-dns.lsho.top
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
@@ -529,7 +528,6 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -751,9 +749,6 @@ doh.onedns.net
 doh.opendns.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns3.lonet.org
-doh.phdns4.lonet.org
-doh.phdns5.lonet.org
 doh.powerdns.org
 doh.pub
 doh.pyry.me
