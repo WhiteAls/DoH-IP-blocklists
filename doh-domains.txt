@@ -78,6 +78,7 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
+adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
@@ -335,6 +336,7 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -527,6 +529,7 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -941,6 +944,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1039,6 +1043,7 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1196,6 +1201,7 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
