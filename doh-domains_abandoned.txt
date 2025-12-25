@@ -103,7 +103,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
@@ -308,6 +307,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 korzhov.dev
