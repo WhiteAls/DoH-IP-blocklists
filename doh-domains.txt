@@ -188,6 +188,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -714,7 +715,6 @@ doh.dnslify.com
 doh.domreg.lt
 doh.eddi.net
 doh.eu.dnswarden.com
-doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.funil.de
@@ -870,6 +870,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -926,6 +927,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 keithchung.hopto.org
@@ -1257,7 +1259,6 @@ wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
 xorbiadns.com
-xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
 ychen.gq
