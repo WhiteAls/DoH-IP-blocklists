@@ -468,7 +468,6 @@ dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
 dns.mnet-online.de
-dns.mo0on15.com
 dns.molinero.dev
 dns.momou.ch
 dns.moog.sh
@@ -585,7 +584,6 @@ dns.thegoodsource.net
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
