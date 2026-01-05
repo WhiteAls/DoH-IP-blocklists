@@ -57,7 +57,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-d2.shabi.icu
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -65,7 +65,6 @@ dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
-dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
@@ -113,7 +112,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fizz.studio
-dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
 dns.furrydns.de
