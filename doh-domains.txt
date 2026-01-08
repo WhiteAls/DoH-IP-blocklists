@@ -188,7 +188,6 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -605,6 +604,7 @@ dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wakgood.net
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -1164,7 +1164,6 @@ slc01.dnscry.pt
 sof01.dnscry.pt
 spacedns.org
 squidmall.vip
-sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
