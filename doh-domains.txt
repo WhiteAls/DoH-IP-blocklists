@@ -187,7 +187,6 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -349,7 +348,6 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
