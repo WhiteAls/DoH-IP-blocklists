@@ -621,7 +621,6 @@ dns.zemows.industries
 dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
-dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
@@ -868,6 +867,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -927,7 +927,6 @@ jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 keithchung.hopto.org
-kids.dns0.eu
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
@@ -1024,7 +1023,6 @@ odoh.crypto.sx
 odvr.nic.cz
 omr01.dnscry.pt
 one.one.one.one
-open.dns0.eu
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic.tenta.io
@@ -1268,7 +1266,6 @@ yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
 zdn.ro
-zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
