@@ -969,7 +969,6 @@ mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
-msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
 muxyuji.ru
@@ -1063,6 +1062,7 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
+pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
