@@ -77,7 +77,6 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
@@ -846,6 +845,7 @@ fra-dns.bitdefender.net
 fra01.dnscry.pt
 fra1.eyecay.xyz
 free.bravedns.com
+free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
