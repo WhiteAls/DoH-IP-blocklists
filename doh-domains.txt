@@ -622,6 +622,7 @@ dns.zemows.industries
 dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
+dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
@@ -724,6 +725,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
