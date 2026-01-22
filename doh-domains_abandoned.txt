@@ -145,7 +145,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -234,6 +233,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -293,7 +293,6 @@ family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -351,7 +350,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
