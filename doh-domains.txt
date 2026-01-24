@@ -621,6 +621,7 @@ dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
+dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
@@ -758,7 +759,6 @@ doh.seby.io
 doh.sidnlabs.nl
 doh.suche.org
 doh.sunoaki.net
-doh.syshero.org
 doh.technochat.in
 doh.tiar.app
 doh.tiarap.org
@@ -1263,6 +1263,5 @@ yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
 zdn.ro
-zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua

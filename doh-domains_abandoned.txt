@@ -23,6 +23,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -113,7 +114,6 @@ dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -147,6 +147,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -188,7 +189,6 @@ dns.xiumu.org
 dns.xusqui.com
 dns.youni.win
 dns.ypbind.de
-dns01.flm9.net
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -257,6 +257,7 @@ doh.port53.dk
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -395,3 +396,4 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 zero.dns0.eu
+zougloub.eu
