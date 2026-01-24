@@ -528,7 +528,6 @@ dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -622,7 +621,6 @@ dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
-dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
@@ -1035,7 +1033,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com

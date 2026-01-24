@@ -105,6 +105,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -112,6 +113,7 @@ dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -165,6 +167,7 @@ dns.privilab.net
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
+dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.seiffert.me
@@ -185,6 +188,7 @@ dns.xiumu.org
 dns.xusqui.com
 dns.youni.win
 dns.ypbind.de
+dns01.flm9.net
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -292,7 +296,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
@@ -345,6 +348,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
