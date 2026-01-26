@@ -402,6 +402,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -760,6 +761,7 @@ doh.seby.io
 doh.sidnlabs.nl
 doh.suche.org
 doh.sunoaki.net
+doh.syshero.org
 doh.technochat.in
 doh.tiar.app
 doh.tiarap.org
@@ -867,7 +869,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
