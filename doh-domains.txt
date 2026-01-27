@@ -402,7 +402,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -869,7 +868,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1192,7 +1190,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
