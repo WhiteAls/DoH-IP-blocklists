@@ -402,6 +402,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -649,6 +650,7 @@ dns2.saferbfc.org
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
+dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
@@ -868,7 +870,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
