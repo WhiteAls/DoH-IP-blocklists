@@ -586,7 +586,6 @@ dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
 dns.trust404.win
-dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
