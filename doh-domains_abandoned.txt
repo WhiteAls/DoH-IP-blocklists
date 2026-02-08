@@ -123,6 +123,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.ikataruto.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -183,7 +184,6 @@ dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
-dns.xiumu.org
 dns.xusqui.com
 dns.youni.win
 dns.ypbind.de

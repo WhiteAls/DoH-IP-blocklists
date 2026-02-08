@@ -400,7 +400,6 @@ dns.huseynov.work
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
-dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
 dns.imchristian.de
@@ -611,6 +610,7 @@ dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
+dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xwdmw.xyz
