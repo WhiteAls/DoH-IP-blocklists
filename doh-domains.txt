@@ -400,8 +400,8 @@ dns.huseynov.work
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
+dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
