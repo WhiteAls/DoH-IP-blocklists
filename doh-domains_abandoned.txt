@@ -122,7 +122,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -170,6 +169,7 @@ dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.seiffert.me
+dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
