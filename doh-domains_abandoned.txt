@@ -120,7 +120,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -143,7 +142,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -326,7 +324,6 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
-nl.dns.privex.io
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
