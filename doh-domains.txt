@@ -263,7 +263,6 @@ dns.asterimoon.com
 dns.b33.space
 dns.b612.me
 dns.b72.com
-dns.baishiyuan.cn
 dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
@@ -403,7 +402,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -990,7 +988,6 @@ nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
-noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com

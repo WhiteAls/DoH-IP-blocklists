@@ -80,6 +80,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.azsopro.net
+dns.baishiyuan.cn
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -111,7 +112,6 @@ dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -122,6 +122,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -144,6 +145,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -329,6 +331,7 @@ nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
 nl.rslvr.eu
+noads.imbuffering.com
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
