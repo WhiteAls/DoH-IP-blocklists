@@ -178,7 +178,6 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
-console.carestyle.org
 cph01.dnscry.pt
 crypto.sx
 cube.neubsi.at
@@ -614,6 +613,7 @@ dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xwdmw.xyz
+dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries

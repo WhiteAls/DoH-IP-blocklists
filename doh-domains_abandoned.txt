@@ -55,6 +55,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
+console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -104,7 +105,6 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -112,6 +112,7 @@ dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -184,7 +185,6 @@ dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
 dns.xusqui.com
-dns.yameenassotally.com
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
