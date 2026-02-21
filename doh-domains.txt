@@ -407,7 +407,6 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
 dns.internal.hosmatic.com
-dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
 dns.jichi.io
