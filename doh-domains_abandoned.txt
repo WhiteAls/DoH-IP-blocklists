@@ -105,6 +105,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -112,7 +113,6 @@ dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -219,7 +219,6 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
-doh.cleanbrowsing.org
 doh.datacore.ch
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -357,7 +356,6 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc
-security-filter-dns.cleanbrowsing.org
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
