@@ -347,6 +347,7 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
+dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
@@ -385,6 +386,7 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hellozhao.com
 dns.hinet.net
 dns.home.daniil.it
@@ -448,6 +450,7 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
+dns.lsho.top
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
