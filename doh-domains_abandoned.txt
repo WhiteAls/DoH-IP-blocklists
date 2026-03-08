@@ -113,7 +113,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -124,7 +123,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -165,7 +163,6 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
-dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -236,7 +233,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
