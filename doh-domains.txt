@@ -303,7 +303,6 @@ dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
-dns.cooluc.com
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
