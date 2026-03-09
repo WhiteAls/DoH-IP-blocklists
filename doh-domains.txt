@@ -543,7 +543,6 @@ dns.schlagheck.berlin
 dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
-dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
@@ -1120,7 +1119,6 @@ sbdns.co.in
 sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
-secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
