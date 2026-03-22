@@ -64,7 +64,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -108,6 +107,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -353,7 +353,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
