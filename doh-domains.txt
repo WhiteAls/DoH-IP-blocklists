@@ -213,7 +213,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -334,6 +333,7 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -399,6 +399,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -453,7 +454,6 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.meeo.win
@@ -463,7 +463,6 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
