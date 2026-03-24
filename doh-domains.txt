@@ -213,6 +213,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -454,6 +455,7 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.meeo.win
@@ -463,6 +465,7 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -907,6 +910,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
+jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -1070,6 +1074,7 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
