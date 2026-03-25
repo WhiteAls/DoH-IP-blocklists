@@ -332,6 +332,7 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns.dnshome.de
+dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
@@ -400,7 +401,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1188,11 +1188,13 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 tuskythehusky.tech
+tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
+uk.teradns.org
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
