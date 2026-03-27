@@ -23,7 +23,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -50,7 +49,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-biying.flymlc.com
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
