@@ -373,6 +373,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -450,6 +451,7 @@ dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
 dns.lsho.top
+dns.lvolland.fr
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
@@ -1118,7 +1120,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
