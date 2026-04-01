@@ -58,7 +58,6 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
-adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
@@ -92,7 +91,6 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -211,8 +209,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -372,7 +368,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -464,6 +459,7 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -610,7 +606,6 @@ dns.weixin.qq.com.cn
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -796,7 +791,6 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
-draco.plan9-ns2.com
 drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
@@ -814,7 +808,6 @@ esel.stusta.mhn.de
 eth.link
 eu1.dns.lavate.ch
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
