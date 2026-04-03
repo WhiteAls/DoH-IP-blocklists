@@ -25,6 +25,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -68,6 +69,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -184,8 +186,10 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -290,6 +294,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 fet01.dnscry.pt
@@ -297,6 +302,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -311,7 +317,9 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
+keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
@@ -355,7 +363,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -374,7 +381,9 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 uf-dns.lista.my.id
 uk.adhole.org
