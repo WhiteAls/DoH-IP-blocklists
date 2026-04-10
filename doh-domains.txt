@@ -163,7 +163,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
 cleanbrowsing.org
-clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -899,6 +898,7 @@ ibuki.cgnat.net
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
+ikarosalpha.xyz
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
