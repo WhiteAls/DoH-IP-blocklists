@@ -293,6 +293,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
