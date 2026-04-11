@@ -139,6 +139,7 @@ dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lihj.me
 dns.mandre.dev
 dns.melalandia.tk
 dns.mipauns.com
