@@ -75,7 +75,6 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
 adguard.zachitect.com
