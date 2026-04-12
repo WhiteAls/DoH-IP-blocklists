@@ -116,7 +116,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -172,7 +171,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.seia.io
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -297,7 +295,6 @@ family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -358,9 +355,9 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
