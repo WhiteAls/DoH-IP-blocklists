@@ -692,7 +692,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cornes.me
@@ -722,6 +721,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
