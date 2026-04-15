@@ -186,6 +186,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -577,7 +578,6 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
-dns.thegoodsource.net
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de

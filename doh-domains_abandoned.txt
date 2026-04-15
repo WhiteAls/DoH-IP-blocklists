@@ -60,7 +60,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -174,6 +173,7 @@ dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
+dns.thegoodsource.net
 dns.theres.one
 dns.tierradeayala.com
 dns.tracker.ink
