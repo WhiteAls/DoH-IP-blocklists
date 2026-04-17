@@ -186,6 +186,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -403,6 +404,7 @@ dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
+dns.infosec.xyz
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jhangy.us
@@ -595,6 +597,7 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vaioswolke.xyz
 dns.vault81.de
+dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vip-kingstore.xyz
