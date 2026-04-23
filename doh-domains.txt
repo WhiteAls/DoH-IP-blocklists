@@ -372,6 +372,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -907,7 +908,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
-jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
