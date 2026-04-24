@@ -102,7 +102,6 @@ agh.fltn.us
 agh.gloom.nexus
 agh.kyusang.win
 agh.printk.info
-agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
 ahoj.email
