@@ -370,7 +370,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -1130,6 +1129,7 @@ sg-dns1.bancuh.com
 sg-sin.doh.sb
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
+sg.teradns.org
 sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
