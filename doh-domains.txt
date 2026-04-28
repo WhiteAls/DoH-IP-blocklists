@@ -257,6 +257,7 @@ dns.asterimoon.com
 dns.b33.space
 dns.b612.me
 dns.b72.com
+dns.baishiyuan.cn
 dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
@@ -370,6 +371,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
