@@ -550,7 +550,6 @@ dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
-dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
@@ -865,6 +864,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
