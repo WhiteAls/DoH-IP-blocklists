@@ -95,7 +95,6 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
-dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -302,7 +301,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com

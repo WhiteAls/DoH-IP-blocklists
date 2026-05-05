@@ -273,6 +273,7 @@ dns.burgas.pro
 dns.busold.ws
 dns.carson-family.com
 dns.caspervk.net
+dns.cctld.kg
 dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
@@ -858,6 +859,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
