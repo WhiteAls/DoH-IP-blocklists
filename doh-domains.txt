@@ -508,7 +508,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -576,6 +575,7 @@ dns.thebuckners.org
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
