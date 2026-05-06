@@ -66,6 +66,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.teradns.org
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -167,7 +168,6 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
-dns.propheci.xyz
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -302,6 +302,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
@@ -349,6 +350,7 @@ ns2.dnsprivacy.at
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
+ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
@@ -371,6 +373,7 @@ secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
+sg.teradns.org
 sin01.dnscry.pt
 snoke.meganerd.nl
 sriedmueadguard.casa
@@ -382,8 +385,10 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
+tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
+uk.teradns.org
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
