@@ -191,6 +191,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.youni.win
@@ -401,6 +402,7 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
