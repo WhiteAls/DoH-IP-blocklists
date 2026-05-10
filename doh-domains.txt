@@ -503,7 +503,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -557,7 +556,6 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 dns.strassmair.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.svoi.dev
