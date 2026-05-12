@@ -270,7 +270,6 @@ dns.busold.ws
 dns.carson-family.com
 dns.caspervk.net
 dns.cctld.kg
-dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
