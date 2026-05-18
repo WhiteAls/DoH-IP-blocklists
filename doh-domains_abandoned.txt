@@ -388,6 +388,7 @@ resolver.noaddns.com
 sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
+secure.avastdns.com
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
