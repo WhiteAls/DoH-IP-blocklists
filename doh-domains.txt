@@ -117,7 +117,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -316,6 +315,7 @@ dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -839,6 +839,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1094,7 +1095,6 @@ secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
 secure-dns.pleumkungz.com
 secure.anudeep.me
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
