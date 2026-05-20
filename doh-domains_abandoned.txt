@@ -321,7 +321,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hydroxlab.ru.com
@@ -332,6 +331,7 @@ inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
 jambi.undo.it
+jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -346,6 +346,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -423,6 +424,7 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
+vtcuong.site
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru

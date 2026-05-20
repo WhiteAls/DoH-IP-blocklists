@@ -881,7 +881,6 @@ ist01.dnscry.pt
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
-jcdns.fun
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -915,7 +914,6 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
@@ -1193,7 +1191,6 @@ virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
