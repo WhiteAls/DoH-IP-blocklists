@@ -76,6 +76,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -132,6 +133,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
+dns.flightspace.net
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -187,6 +189,7 @@ dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
+dns.scapetical.com
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
