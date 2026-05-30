@@ -77,7 +77,6 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
-de.dns.privex.io
 de.teradns.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -365,7 +364,6 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
-nl.dns.privex.io
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
