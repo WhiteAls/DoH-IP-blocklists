@@ -77,6 +77,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 de.teradns.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -325,6 +326,7 @@ groupy.ga
 himedns.com
 hk.rslvr.eu
 hrk01.dnscry.pt
+hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -363,6 +365,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -398,6 +401,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.teradns.org
+sg.yepdns.com
 sin01.dnscry.pt
 snoke.meganerd.nl
 sriedmueadguard.casa
