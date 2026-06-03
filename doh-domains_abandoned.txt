@@ -120,7 +120,6 @@ dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
-dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
