@@ -156,8 +156,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.lihj.me
 dns.mandre.dev
-dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -386,7 +384,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
