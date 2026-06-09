@@ -435,6 +435,7 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -1133,7 +1134,6 @@ testguard.meexx.de
 thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
