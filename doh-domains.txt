@@ -437,7 +437,6 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -467,7 +466,6 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
-dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
 dns.nextdns.io
@@ -1134,7 +1132,6 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
