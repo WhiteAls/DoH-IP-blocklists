@@ -8,7 +8,6 @@
 3dns.eu
 5g.o0o.re
 8888.google
-a-bld.sys-adm.in
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
@@ -126,7 +125,6 @@ bestwon203.com
 biying.flymlc.com
 bl.eq.md
 blackhole.myon.lu
-bld.sys-adm.in
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -437,6 +435,7 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -1132,6 +1131,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
