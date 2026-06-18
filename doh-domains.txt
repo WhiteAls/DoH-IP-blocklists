@@ -338,6 +338,7 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
+dns.faze.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
@@ -439,6 +440,7 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -822,7 +824,6 @@ fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net
 fra01.dnscry.pt
-fra1.eyecay.xyz
 free.bravedns.com
 free.shecan.ir
 freedns.controld.com
