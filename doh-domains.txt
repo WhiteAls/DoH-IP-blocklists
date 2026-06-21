@@ -66,6 +66,7 @@ adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
 adguard.piekacz.pl
+adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.senthil.us
 adguard.shoupperuser.com
@@ -440,7 +441,6 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
