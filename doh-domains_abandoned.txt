@@ -73,6 +73,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 de.teradns.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -150,7 +151,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.lihj.me
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -160,7 +160,6 @@ dns.msxnet.ru
 dns.muxinghe.cn
 dns.ndo.dev
 dns.neowutran.ovh
-dns.netraptor.com.au
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
@@ -254,6 +253,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.iucc.ac.il
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
