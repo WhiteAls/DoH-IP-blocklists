@@ -181,6 +181,7 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.seia.io
 dns.seiffert.me
+dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
@@ -312,6 +313,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
+free.shecan.ir
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -379,6 +381,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -400,6 +403,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
