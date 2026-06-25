@@ -887,6 +887,7 @@ ist01.dnscry.pt
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jcdns.fun
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -1140,6 +1141,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1196,6 +1198,7 @@ virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vpsus3.pzhg.me
+vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
