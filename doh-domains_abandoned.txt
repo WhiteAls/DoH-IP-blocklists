@@ -351,6 +351,7 @@ mnrv.trade
 msr177.com
 n0.eu
 nana-is.so-gorgeo.us.kg
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
@@ -397,7 +398,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
-timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
