@@ -125,6 +125,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -149,7 +150,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.lihj.me
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -351,7 +351,6 @@ mnrv.trade
 msr177.com
 n0.eu
 nana-is.so-gorgeo.us.kg
-nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
