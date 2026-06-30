@@ -862,7 +862,6 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
-home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
 hostdare.qtxd.net
