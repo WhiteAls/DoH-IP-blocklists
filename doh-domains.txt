@@ -957,7 +957,6 @@ ndns.233py.com
 netcup.mismat.ch
 nicsezcheckfbi.gov
 nl-ams.doh.sb
-nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
@@ -1033,7 +1032,6 @@ pluton.plan9-dns.com
 pooblet.co.za
 princez.uk
 privacy.plumedns.com
-privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
 pro.shecan.ir
@@ -1197,6 +1195,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
