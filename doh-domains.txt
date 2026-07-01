@@ -128,7 +128,6 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
-bl.eq.md
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -405,7 +404,6 @@ dns.jiyi.eu
 dns.joey01245.nl
 dns.jstockley.com
 dns.jundev.org
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -862,6 +860,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
+home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
 hostdare.qtxd.net

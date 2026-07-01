@@ -58,6 +58,7 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
+bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
 br.servers.legat.ml
@@ -143,6 +144,7 @@ dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.jupitrdns.com
 dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
@@ -314,7 +316,6 @@ groupy.ga
 guard.sntrk.ru
 himedns.com
 hk.rslvr.eu
-home.enjoymylife.net
 hrk01.dnscry.pt
 hydra.plan9-ns1.com
 hydroxlab.ru.com
