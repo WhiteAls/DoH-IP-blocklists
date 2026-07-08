@@ -540,7 +540,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
-dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
@@ -1116,7 +1115,6 @@ shield1.eranext.net
 sin02.dnscry.pt
 sin03.dnscry.pt
 sink.nolo.ltd
-sitdns.com
 sjc01.dnscry.pt
 sky.rethinkdns.com
 skydragoness.com
