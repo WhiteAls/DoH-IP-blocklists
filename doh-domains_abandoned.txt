@@ -164,7 +164,6 @@ dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
