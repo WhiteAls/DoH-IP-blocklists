@@ -23,13 +23,11 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
-addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -100,7 +98,6 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -114,7 +111,6 @@ area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
 at.pzhg.me
-ath01.dnscry.pt
 atl01.dnscry.pt
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
@@ -134,7 +130,6 @@ blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
-bom01.dnscry.pt
 bravedns.com
 bts01.dnscry.pt
 c.cicitt.ch
@@ -352,7 +347,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -380,7 +374,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -424,13 +417,11 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
@@ -811,7 +802,6 @@ fdns2.dismail.de
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
 firefox.dns.nextdns.io
-fjr01.dnscry.pt
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
@@ -839,7 +829,6 @@ geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-gru01.dnscry.pt
 gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me

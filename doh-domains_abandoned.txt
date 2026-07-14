@@ -15,8 +15,10 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+addns1.m-it.ro
 adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -46,9 +48,11 @@ ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
+ath01.dnscry.pt
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -62,6 +66,7 @@ bigora2.vuhai.de
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
+bom01.dnscry.pt
 br.servers.legat.ml
 buc-m2.illmods.com
 canadianshield.cira.ca
@@ -128,9 +133,11 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
+dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -149,6 +156,7 @@ dns.jucker.engineering
 dns.jupitrdns.com
 dns.keke125.com
 dns.kugoapps.com
+dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
 dns.lightmaster.pw
@@ -317,9 +325,11 @@ family.5ososea.com
 family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
+fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
 groupy.ga
+gru01.dnscry.pt
 guard.sntrk.ru
 himedns.com
 hk.rslvr.eu
@@ -410,6 +420,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
