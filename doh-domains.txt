@@ -30,7 +30,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -380,7 +379,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -598,7 +596,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1006,7 +1003,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
