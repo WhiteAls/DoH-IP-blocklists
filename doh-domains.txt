@@ -30,7 +30,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -122,6 +121,7 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axaxa.fun
+b-ii.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -696,6 +696,7 @@ doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -773,7 +774,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
