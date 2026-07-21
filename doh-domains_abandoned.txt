@@ -128,7 +128,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -150,7 +149,6 @@ dns.jucker.engineering
 dns.jupitrdns.com
 dns.keke125.com
 dns.kugoapps.com
-dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
 dns.lihj.me
@@ -306,6 +304,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
