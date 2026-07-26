@@ -24,6 +24,7 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
@@ -83,6 +84,7 @@ adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
+affcdn.net
 affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -100,7 +102,6 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -380,6 +381,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -429,7 +431,6 @@ dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
@@ -478,6 +479,7 @@ dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.nullgate.net
 dns.odinpl.com
 dns.ofdoom.net
@@ -635,7 +637,6 @@ dnsforfamily.com
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse.alekberg.net
@@ -778,7 +779,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -985,7 +985,7 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -1193,6 +1193,7 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1209,7 +1210,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
