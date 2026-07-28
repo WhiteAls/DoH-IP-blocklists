@@ -23,13 +23,12 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
-addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -91,6 +90,7 @@ ag.apollohct.com
 ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -101,6 +101,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -352,7 +353,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -379,7 +379,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -636,7 +635,6 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -702,6 +700,7 @@ doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -984,7 +983,9 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1191,6 +1192,7 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1207,7 +1209,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
