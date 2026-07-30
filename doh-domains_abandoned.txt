@@ -152,6 +152,7 @@ dns.kugoapps.com
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.lihj.me
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -237,6 +238,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -302,7 +304,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -315,7 +316,6 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -376,8 +376,6 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
-odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
@@ -408,7 +406,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
