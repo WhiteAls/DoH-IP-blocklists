@@ -24,6 +24,7 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
@@ -432,7 +433,6 @@ dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
@@ -603,7 +603,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -636,6 +635,7 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -842,6 +842,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -988,7 +989,9 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -1041,7 +1044,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 punono.duckdns.org
-puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
@@ -1196,6 +1198,7 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
