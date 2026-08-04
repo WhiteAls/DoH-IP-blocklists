@@ -635,6 +635,7 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -841,7 +842,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -943,7 +943,6 @@ mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
-mru01.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
 muxyuji.ru
@@ -1021,7 +1020,6 @@ pdns.itxe.net
 pdx01.dnscry.pt
 per.adfilter.net
 performance.gosami.xyz
-phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
@@ -1050,7 +1048,6 @@ quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
-rdu01.dnscry.pt
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -1141,7 +1138,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -1197,7 +1193,6 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1214,12 +1209,14 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
+xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
 zakaria.website
