@@ -60,6 +60,7 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
+adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -80,6 +81,7 @@ adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
+affcdn.net
 affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -97,7 +99,6 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -204,7 +205,6 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.23-4.cn
 dns.233py.com
-dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
 dns.4-the.win
@@ -281,6 +281,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -420,12 +421,12 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
@@ -628,6 +629,7 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -672,6 +674,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -846,6 +849,7 @@ h.gjrick.tw
 han01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -853,7 +857,6 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
-home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
 hostdare.qtxd.net
@@ -861,6 +864,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -912,6 +916,7 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
@@ -978,9 +983,8 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1184,6 +1188,7 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1200,7 +1205,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
