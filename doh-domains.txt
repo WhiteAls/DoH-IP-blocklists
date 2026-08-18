@@ -437,6 +437,7 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -706,7 +707,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
 doh.kekew.info
-doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
 doh.kooman.org
@@ -919,6 +919,7 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt

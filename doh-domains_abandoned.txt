@@ -154,7 +154,6 @@ dns.learningman.top
 dns.lihj.me
 dns.linkr.ninja
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -251,6 +250,7 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
+doh.kel.pe
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -341,7 +341,6 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
