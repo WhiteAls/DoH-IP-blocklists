@@ -348,7 +348,6 @@ luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
-mainframe.dewed.de
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -373,7 +372,6 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
