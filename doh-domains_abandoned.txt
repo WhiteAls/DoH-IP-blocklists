@@ -194,6 +194,7 @@ dns.thegoodsource.net
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
+dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
