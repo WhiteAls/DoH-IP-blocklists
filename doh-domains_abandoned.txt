@@ -151,6 +151,7 @@ dns.jupitrdns.com
 dns.keke125.com
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.mandre.dev
