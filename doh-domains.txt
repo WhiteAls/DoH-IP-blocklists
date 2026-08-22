@@ -61,7 +61,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -484,7 +483,6 @@ dns.nullgate.net
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
