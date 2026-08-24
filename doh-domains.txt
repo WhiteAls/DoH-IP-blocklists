@@ -199,7 +199,6 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
-dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
@@ -377,7 +376,6 @@ dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hujiayucc.cn
-dns.huseynov.work
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
@@ -672,7 +670,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
