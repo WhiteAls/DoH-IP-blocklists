@@ -59,6 +59,7 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
+adguard.mrmartian.co
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -1191,6 +1192,7 @@ www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
+www.zburger.top
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
