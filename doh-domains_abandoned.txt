@@ -134,6 +134,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.futuredns.me
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -329,7 +330,6 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
