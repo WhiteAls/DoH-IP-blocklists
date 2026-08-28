@@ -122,7 +122,6 @@ basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
-biying.flymlc.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -523,7 +522,6 @@ dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
-dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
