@@ -59,7 +59,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.mrmartian.co
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -995,6 +994,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1117,6 +1117,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com

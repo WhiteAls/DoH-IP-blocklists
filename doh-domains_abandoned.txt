@@ -36,6 +36,7 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
+adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.sparshbajaj.me
@@ -393,7 +394,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -421,7 +421,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
-timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
