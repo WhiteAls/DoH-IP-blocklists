@@ -1179,7 +1179,6 @@ vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1197,7 +1196,6 @@ www.zburger.top
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
