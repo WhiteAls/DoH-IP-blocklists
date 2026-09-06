@@ -97,7 +97,6 @@ dns.240527.xyz
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
