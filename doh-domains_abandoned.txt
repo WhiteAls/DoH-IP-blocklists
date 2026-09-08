@@ -38,7 +38,6 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -418,7 +417,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
