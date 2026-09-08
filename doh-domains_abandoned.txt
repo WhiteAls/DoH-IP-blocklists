@@ -122,7 +122,6 @@ dns.criena.net
 dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
-dns.david888.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
@@ -419,6 +418,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
