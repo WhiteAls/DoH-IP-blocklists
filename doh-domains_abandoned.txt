@@ -144,6 +144,7 @@ dns.huseynov.work
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -323,6 +324,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
