@@ -59,7 +59,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -1202,7 +1201,6 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
-yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
 zakaria.website
