@@ -277,7 +277,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -780,7 +779,6 @@ dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
-easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 edns.233py.com
@@ -836,6 +834,7 @@ geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
