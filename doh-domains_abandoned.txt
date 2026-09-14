@@ -129,6 +129,7 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -415,6 +416,7 @@ sg.rslvr.eu
 sg.teradns.org
 sin01.dnscry.pt
 snoke.meganerd.nl
+squidmall.vip
 sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
@@ -422,6 +424,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org

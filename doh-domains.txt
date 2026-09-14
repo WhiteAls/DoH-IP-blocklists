@@ -313,7 +313,6 @@ dns.doh.best
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -1102,7 +1101,6 @@ skydragoness.com
 slc01.dnscry.pt
 sof01.dnscry.pt
 spacedns.org
-squidmall.vip
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
@@ -1123,7 +1121,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
