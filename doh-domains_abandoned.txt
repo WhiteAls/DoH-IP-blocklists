@@ -97,6 +97,7 @@ dns.240527.xyz
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
@@ -110,6 +111,7 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
+dns.cctld.kg
 dns.ceai.com.tw
 dns.cfiec.net
 dns.chmc.ml
@@ -218,6 +220,7 @@ dns.wugui.zone
 dns.xusqui.com
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -249,6 +252,7 @@ doh-jp.blahdns.com
 doh.978159.xyz
 doh.abmb.win
 doh.au.ahadns.net
+doh.azoris.ovh
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.cnetwork.cloud
@@ -326,6 +330,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -405,6 +410,7 @@ rdu01.dnscry.pt
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.avastdns.com

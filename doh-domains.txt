@@ -211,7 +211,6 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
-dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -258,7 +257,6 @@ dns.burgas.pro
 dns.busold.ws
 dns.carson-family.com
 dns.caspervk.net
-dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -585,7 +583,6 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -651,7 +648,6 @@ doh.appliedprivacy.net
 doh.archuser.org
 doh.armadillodns.net
 doh.asia.dnswarden.com
-doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
@@ -834,7 +830,6 @@ geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1068,7 +1063,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
