@@ -97,6 +97,7 @@ dns.240527.xyz
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
@@ -327,7 +328,6 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
