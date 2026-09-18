@@ -130,6 +130,7 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -219,6 +220,7 @@ dns.wugui.zone
 dns.xusqui.com
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -328,6 +330,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -407,6 +410,7 @@ rdu01.dnscry.pt
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.avastdns.com
@@ -425,6 +429,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
