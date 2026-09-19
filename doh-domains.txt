@@ -1065,6 +1065,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1118,6 +1119,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
