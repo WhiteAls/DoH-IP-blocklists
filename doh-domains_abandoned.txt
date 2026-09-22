@@ -378,7 +378,6 @@ nightlymoon.us.kg
 nl-ams2.doh.sb
 nl.rslvr.eu
 ns.lov.host
-ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
