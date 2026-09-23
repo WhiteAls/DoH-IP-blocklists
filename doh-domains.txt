@@ -1119,6 +1119,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
@@ -1184,7 +1185,6 @@ www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
-www.zburger.top
 wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
