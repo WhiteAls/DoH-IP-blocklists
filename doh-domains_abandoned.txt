@@ -110,6 +110,7 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
+dns.cctld.kg
 dns.ceai.com.tw
 dns.cfiec.net
 dns.chmc.ml
@@ -269,6 +270,7 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
+doh.jeroenhd.nl
 doh.kel.pe
 doh.kutu.my.id
 doh.linngde.com
