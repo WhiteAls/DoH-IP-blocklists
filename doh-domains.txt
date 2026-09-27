@@ -23,6 +23,7 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
+addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
@@ -68,7 +69,6 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sparshbajaj.me
 adguard.twotigers.xyz
 adguard.zachitect.com
 adguard1.jsanagustin.net
@@ -306,7 +306,6 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns.dnshome.de
-dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win

@@ -15,7 +15,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-addns1.m-it.ro
 adfiltro.fun
 adg.rokh.biz
 adg.rueiliu.space
@@ -40,6 +39,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
+adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
 adguardh.ga
@@ -126,6 +126,7 @@ dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
