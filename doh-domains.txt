@@ -29,6 +29,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -87,6 +88,7 @@ ag.apollohct.com
 ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -582,6 +584,7 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -656,6 +659,7 @@ doh.captnemo.in
 doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -944,7 +948,6 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1117,7 +1120,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
