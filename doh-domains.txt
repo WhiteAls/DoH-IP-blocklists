@@ -948,6 +948,7 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1120,6 +1121,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
