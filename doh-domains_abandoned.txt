@@ -83,6 +83,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
+dns-fr-psv1.cloudsides.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-weblock.wevpn.com
@@ -269,7 +270,6 @@ doh.kel.pe
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
-doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
@@ -422,7 +422,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
