@@ -250,7 +250,6 @@ doh.abmb.win
 doh.au.ahadns.net
 doh.azoris.ovh
 doh.chi.ahadns.net
-doh.cippapp.com
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
