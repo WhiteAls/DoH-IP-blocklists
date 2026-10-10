@@ -4,6 +4,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -122,7 +123,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -310,6 +310,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -471,6 +472,7 @@ dns.nullgate.net
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
+dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
@@ -569,6 +571,7 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -833,7 +836,6 @@ geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1109,7 +1111,6 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
