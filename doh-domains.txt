@@ -4,6 +4,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -52,6 +53,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -122,6 +124,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -347,6 +350,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -569,6 +573,7 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -1108,6 +1113,7 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
