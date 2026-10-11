@@ -4,7 +4,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -138,7 +137,6 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 catdns.org
-cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 chrome.cloudflare-dns.com
@@ -571,7 +569,6 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
