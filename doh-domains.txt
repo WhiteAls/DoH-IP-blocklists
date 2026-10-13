@@ -780,7 +780,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -1109,6 +1108,7 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
