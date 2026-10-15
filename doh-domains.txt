@@ -52,6 +52,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -478,6 +479,7 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -1113,7 +1115,6 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn

@@ -184,7 +184,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -418,6 +417,7 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
