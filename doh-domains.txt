@@ -4,6 +4,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -52,6 +53,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -899,8 +901,8 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
@@ -1099,7 +1101,6 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
