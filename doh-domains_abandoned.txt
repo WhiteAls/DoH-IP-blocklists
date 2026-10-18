@@ -1,5 +1,6 @@
 1.xhr0no.my
 351242444.xyz
+3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -33,6 +34,7 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
+adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
@@ -59,7 +61,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -129,7 +130,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.editechstudio.com
@@ -211,6 +211,7 @@ dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
