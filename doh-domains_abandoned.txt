@@ -64,6 +64,7 @@ berd.moe
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 blockerads.multimediaconcept.fr
@@ -184,6 +185,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -338,6 +340,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -355,6 +358,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jp.tiar.app
 jp.tiarap.org
 jp1.f7b6h9.tk
 kaitain.restena.lu
@@ -368,11 +372,14 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mendozasdelivery.com
 minilla.store
 mnrv.trade
 mru01.dnscry.pt

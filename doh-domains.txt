@@ -123,7 +123,6 @@ basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -478,7 +477,6 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -570,6 +568,7 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -870,7 +869,6 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp-tyo-w-p-1.nashkan.net
-jp.tiar.app
 jp01.dns4me.net
 jp2.ooroot.com
 jpdns.cola16.app
@@ -900,7 +898,6 @@ loadlow.me
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
@@ -911,7 +908,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mikezhang.xyz
 mil01.dnscry.pt
