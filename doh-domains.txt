@@ -4,7 +4,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -53,6 +52,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -122,7 +122,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -341,13 +340,13 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -769,6 +768,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -783,7 +783,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -834,7 +833,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -1175,6 +1173,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
 zakaria.website
