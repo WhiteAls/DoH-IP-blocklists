@@ -4,6 +4,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -52,6 +53,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -308,6 +310,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -475,6 +478,7 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -832,7 +836,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -906,7 +909,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mikezhang.xyz
 mil01.dnscry.pt
@@ -976,7 +978,6 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net

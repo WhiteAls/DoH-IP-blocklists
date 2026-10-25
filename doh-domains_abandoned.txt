@@ -1,6 +1,5 @@
 1.xhr0no.my
 351242444.xyz
-3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -30,7 +29,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -131,7 +129,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -342,6 +339,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -378,6 +376,8 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mendozasdelivery.com
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -411,6 +411,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
