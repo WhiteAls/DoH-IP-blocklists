@@ -61,6 +61,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -213,6 +214,7 @@ dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -294,6 +296,7 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -327,6 +330,7 @@ eu1.dns.lavate.ch
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
@@ -340,6 +344,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -371,11 +376,13 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -409,6 +416,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -435,11 +443,13 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
