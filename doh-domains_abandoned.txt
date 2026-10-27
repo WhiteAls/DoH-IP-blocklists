@@ -324,6 +324,7 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
@@ -377,6 +378,7 @@ lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -389,6 +391,7 @@ mru01.dnscry.pt
 msr177.com
 n0.eu
 nana-is.so-gorgeo.us.kg
+naw01.dnscry.pt
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
@@ -416,7 +419,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
