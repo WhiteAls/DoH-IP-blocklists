@@ -52,6 +52,7 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -308,7 +309,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -476,6 +476,7 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -567,6 +568,7 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -734,6 +736,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -766,6 +769,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -828,6 +832,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -890,6 +895,7 @@ loadlow.me
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
@@ -902,6 +908,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -968,6 +975,7 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
@@ -1107,6 +1115,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
