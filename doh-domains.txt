@@ -4,7 +4,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
@@ -766,7 +765,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -780,7 +778,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -830,7 +827,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -891,7 +887,6 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 mad01.dnscry.pt
@@ -904,8 +899,8 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
+mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1090,7 +1085,6 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
