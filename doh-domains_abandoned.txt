@@ -132,6 +132,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -213,7 +214,6 @@ dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -295,6 +295,7 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -328,7 +329,6 @@ eu1.dns.lavate.ch
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
@@ -343,7 +343,6 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -375,14 +374,13 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
-mikezhang.xyz
+mendozasdelivery.com
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -420,6 +418,7 @@ outdoorchair.us
 pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
+pihole4.hoerli.net
 please.dontsteal.my.id
 pope.cnblw.me
 princez.uk
@@ -444,13 +443,11 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -467,7 +464,6 @@ us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
-vd.i81.ru
 vm.mytm.cc
 wantaquddin.com
 www.dnsadguard.co.uk
