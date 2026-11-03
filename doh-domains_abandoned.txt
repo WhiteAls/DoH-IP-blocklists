@@ -1,5 +1,6 @@
 1.xhr0no.my
 351242444.xyz
+3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -187,6 +188,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -214,6 +216,7 @@ dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -343,6 +346,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -374,6 +378,7 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -381,6 +386,7 @@ lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
 mendozasdelivery.com
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -415,6 +421,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
@@ -448,6 +455,7 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
