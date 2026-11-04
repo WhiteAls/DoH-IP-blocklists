@@ -52,6 +52,7 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -121,7 +122,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -568,7 +568,6 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -767,6 +766,7 @@ dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
+easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 edns.233py.com
@@ -891,7 +891,6 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 mad01.dnscry.pt
@@ -904,8 +903,8 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -972,7 +971,6 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
-pashagame456.com
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
