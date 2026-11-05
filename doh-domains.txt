@@ -770,6 +770,7 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -907,6 +908,7 @@ max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
+mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1090,7 +1092,6 @@ sunnygyl.com
 switch.ch
 syd.adfilter.net
 takhtakh.domyah.net
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
