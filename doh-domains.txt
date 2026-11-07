@@ -478,6 +478,7 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -569,6 +570,7 @@ dns.vinnyp.xyz
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
+dns.wahr.top
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de
@@ -768,6 +770,7 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -830,6 +833,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -890,7 +894,9 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
@@ -970,6 +976,7 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
