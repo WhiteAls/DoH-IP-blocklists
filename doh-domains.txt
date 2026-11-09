@@ -478,7 +478,6 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -567,7 +566,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wahr.top
@@ -910,7 +908,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
