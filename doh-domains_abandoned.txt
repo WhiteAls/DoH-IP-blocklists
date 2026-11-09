@@ -184,6 +184,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -371,11 +372,13 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
