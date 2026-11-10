@@ -30,6 +30,7 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -343,6 +344,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -374,11 +376,13 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mendozasdelivery.com
 mikezhang.xyz
 minilla.store
 mnrv.trade
@@ -412,7 +416,6 @@ odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 pashagame456.com
 phl01.dnscry.pt
