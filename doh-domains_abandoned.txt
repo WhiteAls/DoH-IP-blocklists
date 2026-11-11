@@ -67,6 +67,7 @@ biying.flymlc.com
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
+block.abstergo.it
 blockerads.multimediaconcept.fr
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -141,7 +142,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.henek.ovh
 dns.huas.me
@@ -210,6 +210,7 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wakgood.net
@@ -341,7 +342,6 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -378,6 +378,8 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mendozasdelivery.com
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -411,7 +413,6 @@ open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
