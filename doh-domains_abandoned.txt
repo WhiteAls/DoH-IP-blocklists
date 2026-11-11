@@ -34,7 +34,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -67,7 +66,6 @@ biying.flymlc.com
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
-block.abstergo.it
 blockerads.multimediaconcept.fr
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -123,7 +121,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
-dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
@@ -373,12 +370,12 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
-mendozasdelivery.com
 mikezhang.xyz
 minilla.store
 mnrv.trade

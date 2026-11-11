@@ -125,6 +125,7 @@ bazooki-infra.dev
 bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
+block.abstergo.it
 blocker.thethorsens.org
 blog.kimiblock.top
 bluemood.me
@@ -280,6 +281,7 @@ dns.comss.one
 dns.connect.fail
 dns.cryptomize.com
 dns.crystalyx.net
+dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
@@ -567,7 +569,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wahr.top
@@ -895,7 +896,6 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 mad01.dnscry.pt
@@ -908,6 +908,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mil01.dnscry.pt
 morbitzer.de
