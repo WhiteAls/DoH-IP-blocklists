@@ -30,10 +30,12 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
+adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -182,6 +184,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -207,9 +210,9 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -339,6 +342,7 @@ gru01.dnscry.pt
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -371,11 +375,13 @@ lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mendozasdelivery.com
 mikezhang.xyz
 minilla.store
 mnrv.trade
