@@ -56,6 +56,7 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.onlyfriends.info
@@ -175,7 +176,6 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
-deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -567,6 +567,7 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wargan.io
@@ -585,6 +586,7 @@ dns.yatima.tv
 dns.zemows.industries
 dns.zui.lol
 dns.zzuhacker.cn
+dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
@@ -832,6 +834,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -871,6 +874,7 @@ jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
+kids.dns0.eu
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
@@ -958,6 +962,7 @@ odoh.crypto.sx
 odvr.nic.cz
 omr01.dnscry.pt
 one.one.one.one
+open.dns0.eu
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic1.eth-services.de
@@ -1181,6 +1186,7 @@ yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
 zdn.ro
+zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
