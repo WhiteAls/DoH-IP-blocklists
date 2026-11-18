@@ -1,5 +1,6 @@
 1.xhr0no.my
 351242444.xyz
+3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -20,7 +21,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -62,6 +62,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -84,7 +85,6 @@ cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
 de.adhole.org
 de.teradns.org
-deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -132,6 +132,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -143,6 +144,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.henek.ovh
 dns.huas.me
 dns.hugo0.moe
@@ -409,6 +411,7 @@ odoh-target.alekberg.net
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
@@ -436,11 +439,13 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
