@@ -20,6 +20,7 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
+adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -80,6 +81,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 de.teradns.org
 deep-henchman-excuse.cfd
@@ -130,7 +132,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -375,6 +376,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
