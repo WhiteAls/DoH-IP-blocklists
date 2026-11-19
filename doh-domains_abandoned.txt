@@ -21,6 +21,7 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
+adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -131,7 +132,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -211,7 +211,6 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -223,6 +222,7 @@ dns.xusqui.com
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
+dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -366,6 +366,7 @@ jp1.f7b6h9.tk
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -407,6 +408,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
@@ -474,3 +476,4 @@ ycg01.dnscry.pt
 ychen.cf
 ychen.ga
 ychen.gq
+zero.dns0.eu
