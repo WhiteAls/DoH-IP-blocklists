@@ -82,7 +82,6 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -212,6 +211,7 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -378,7 +378,6 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
-mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
@@ -411,7 +410,6 @@ odoh-target.alekberg.net
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net

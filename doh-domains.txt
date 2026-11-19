@@ -159,6 +159,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -564,7 +565,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wargan.io
@@ -908,6 +908,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -976,6 +977,7 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
