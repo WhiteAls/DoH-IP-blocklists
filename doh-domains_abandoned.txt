@@ -81,6 +81,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
 clientdns3.softcom.net
+cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -134,7 +135,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -371,6 +371,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
+mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt

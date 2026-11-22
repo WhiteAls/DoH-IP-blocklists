@@ -140,7 +140,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
 cleanbrowsing.org
-cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
 cloudflare-dns.com
@@ -305,6 +304,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -915,7 +915,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
