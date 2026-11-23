@@ -35,7 +35,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -84,7 +83,6 @@ cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -134,7 +132,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.editechstudio.com
@@ -369,7 +366,6 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
 mainframe.dewed.de
-mikezhang.xyz
 minilla.store
 mnrv.trade
 mru01.dnscry.pt
