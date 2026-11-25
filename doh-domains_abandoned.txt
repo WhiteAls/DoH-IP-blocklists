@@ -21,7 +21,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -84,10 +83,8 @@ cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
-deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -134,7 +131,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.editechstudio.com
@@ -144,6 +140,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glf.wtf
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -365,6 +362,7 @@ la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -375,6 +373,7 @@ mnrv.trade
 mru01.dnscry.pt
 msr177.com
 n0.eu
+naganohara-yoimiya.momokko.moe
 nana-is.so-gorgeo.us.kg
 naw01.dnscry.pt
 neatdns.ustclug.org

@@ -36,6 +36,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.blogssl.com
@@ -172,6 +173,7 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
+deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -306,6 +308,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
@@ -343,7 +346,6 @@ dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
-dns.glf.wtf
 dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
@@ -902,7 +904,6 @@ lion.yazilimatolye.com
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 mad01.dnscry.pt
@@ -925,7 +926,6 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 muxyuji.ru
 n5.lsasss.com
-naganohara-yoimiya.momokko.moe
 nanopi.cybergroove.net
 nat64.tuxis.nl
 ndns.233py.com
