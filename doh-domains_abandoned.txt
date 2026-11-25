@@ -84,8 +84,10 @@ cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 de.teradns.org
+deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -122,7 +124,6 @@ dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
 dns.comeonjames.club
-dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
 dns.cybershell.xyz
@@ -133,6 +134,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.editechstudio.com
@@ -211,7 +213,6 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
