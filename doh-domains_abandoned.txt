@@ -21,6 +21,7 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
+adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -35,7 +36,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -87,7 +87,6 @@ cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
 de.adhole.org
 de.teradns.org
-deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -213,7 +212,6 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
