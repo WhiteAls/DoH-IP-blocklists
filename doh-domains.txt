@@ -307,7 +307,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
@@ -345,7 +344,6 @@ dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -565,6 +563,7 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wargan.io
@@ -792,7 +791,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
